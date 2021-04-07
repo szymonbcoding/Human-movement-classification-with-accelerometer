@@ -9,3 +9,5 @@ Script "processing.py" allows you to create images from data of accelerometer.
 
 Script "train_test.py" allows you to create neural network, train and test it. Finally, script present you results of test based on images, which neural network didn't deal with.
 
+Important link to get knowledge about image recognition with TensorFlow and Convolution Neural Networks:
+https://www.tensorflow.org/tutorials/images/classification
